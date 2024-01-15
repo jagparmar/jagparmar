@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @jagparmar
-- 👀 I’m interested in Software Engineering 
-- 🌱 I’m currently learning Linux 
 
 <!---
 jagparmar/jagparmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
